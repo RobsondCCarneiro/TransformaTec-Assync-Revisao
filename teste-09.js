@@ -10,8 +10,8 @@ class ErroLogin extends Error {
 
 try {
     
-    let email = "cassianow@dio.me"
-    let senha = "123456"
+    let email = "cassiano@dio.me"
+    let senha = "1234567"
 
     let emailSistema = "cassiano@dio.me"
     let senhaDoSistema = "123456"
